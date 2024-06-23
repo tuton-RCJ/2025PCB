@@ -428,7 +428,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "../../../../../../../Downloads/05-PWR.step",
+      "step": "05-PWR.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
