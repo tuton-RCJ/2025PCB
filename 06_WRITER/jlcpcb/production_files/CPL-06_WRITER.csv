@@ -1,0 +1,14 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,100n,C_0805_2012Metric,167.005,-88.9,-90.0,top
+C2,100n,C_0805_2012Metric,169.545,-88.9,90.0,top
+D1,LED_GREEN,LED_1206_3216Metric,165.1,-75.565,90.0,top
+D2,LED_ORANGE,LED_1206_3216Metric,165.1,-84.455,90.0,top
+J1,USB_C_Receptacle_USB2.0,USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal,171.45,-68.385,180.0,top
+J2,Conn_02x04_Counter_Clockwise,PinHeader_2x04_P2.54mm_Vertical,171.46,-98.43,-90.0,top
+R1,5.1k,R_0805_2012Metric,170.18,-76.2,90.0,top
+R2,5.1k,R_0805_2012Metric,167.64,-76.2,90.0,top
+R3,75,R_0805_2012Metric,165.1,-80.01,-90.0,top
+R4,75,R_0805_2012Metric,167.005,-93.345,0.0,top
+SW1,NRST,SW_PUSH_6mm,175.28,-88.9,90.0,top
+SW2,BOOT0,SW_PUSH_6mm,175.26,-78.74,90.0,top
+U1,CH340E,MSOP-10_3x3mm_P0.5mm,168.545,-82.55,-90.0,top

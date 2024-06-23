@@ -1,4 +1,11 @@
-22475538254553441
+22485842315384634
+Akiduki
+DS-850K-S-ON
+
+
+0
+2
+2
 Akiduki
 LBR127HLD
 
@@ -7,12 +14,33 @@ LBR127HLD
 4
 4
 Akiduki
+OKL-T6-W12N-C
+
+
+0
+14
+12
+Akiduki
 RPR220
 
 
 0
 4
 4
+Akiduki
+S11059
+
+
+0
+10
+10
+Akiduki
+Voltmeter
+
+
+0
+0
+0
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -61375,6 +61403,13 @@ solder jumper open
 0
 5
 3
+LCSC
+FXL1040-220-M
+
+
+0
+2
+2
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
@@ -92576,6 +92611,13 @@ tuton_logo
 0
 logo
 tuton_logo_big
+
+
+0
+0
+0
+logo
+tuton_logo_small
 
 
 0
