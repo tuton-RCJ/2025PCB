@@ -646,12 +646,7 @@
     (uuid fa80437c-ef6f-418f-8b86-46c6cd6a46e2)
   )
 
-  (text "入力電圧範囲　10.5~12.6V\n出力電圧　7.2V\n出力電圧定格　1.5A\n動作周波数　500kHz\n"
-    (at 48.895 96.52 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 073e970d-be83-46c7-9f44-0dd318a47506)
-  )
-  (text "2.04k\n" (at 48.895 102.235 0)
+  (text "2.04k\n" (at 161.29 93.98 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid ea315ea2-266f-4e20-83f8-bd854c3dadd9)
   )
