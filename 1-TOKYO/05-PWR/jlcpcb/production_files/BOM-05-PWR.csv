@@ -1,0 +1,33 @@
+Comment,Designator,Footprint,LCSC
+10uF,"C2,C4",C_0805_2012Metric,C15850
+1k,R1,R_0603_1608Metric,C21190
+1.2k,"R4,R8",R_0603_1608Metric,C22765
+1.5k,R5,R_0603_1608Metric,C22843
+10,R3,R_0603_1608Metric,C22859
+330,R2,R_0603_1608Metric,C23138
+680,R6,R_0603_1608Metric,C23228
+10k,"R7,R9",R_0603_1608Metric,C25804
+1u,"C5,C6",C_0805_2012Metric,C28323
+22uF,"C1,C3",C_0805_2012Metric,C45783
+XC6206P332MR-G,U6,SOT-23-3,C5446
+R_Trim,RV1,Potentiometer_Bourns_3296W_Vertical,
+Battery,J1,SolderWire-2sqmm_1x02_P7.8mm_D2mm_OD3.9mm,
+~,U1,PinHeader_1x05_P2.54mm_Vertical,
+~,U2,PinHeader_1x05_P2.54mm_Vertical,
+STS3032,J6,JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical,
+ToLINE,J7,JST_XH_B6B-XH-A_1x06_P2.50mm_Vertical,
+3V3 ToMAIN,J9,SolderWire-2sqmm_1x02_P7.8mm_D2mm_OD3.9mm,
+Conn_01x04,J11,JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical,
+STS3032,J5,JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical,
+R_Trim,RV2,Potentiometer_Bourns_3296W_Vertical,
+STS3032,J4,JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical,
+R_Trim,RV3,Potentiometer_Bourns_3296W_Vertical,
+~,U3,OKL-T6-W12N-C,
+~,U4,OKL-T6-W12N-C,
+SW_SPST,SW1,DS-850K-S-ON,
+5V ToMAIN,J10,SolderWire-2sqmm_1x02_P7.8mm_D2mm_OD3.9mm,
+STS3032,J3,JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical,
+Q_PMOS_GDS,Q1,TO-251-3_Vertical,
+~,U5,M51957B,
+VOLTMETER,J2,SolderWire-0.5sqmm_1x02_P4.6mm_D0.9mm_OD2.1mm,
+Fuse,F1,FUSE_3557-15,

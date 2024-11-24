@@ -1,0 +1,18 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+D1,WS2812B,LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm,63.5,-71.21,90.0,top
+D2,WS2812B,LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm,70.74,-71.21,90.0,top
+D3,WS2812B,LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm,78.36,-71.3,90.0,top
+D4,WS2812B,LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm,85.98,-71.21,90.0,top
+D5,WS2812B,LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm,93.6,-71.21,90.0,top
+D6,WS2812B,LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm,100.33,-71.21,90.0,top
+J1,ToTop,JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical,31.81,-65.295,0.0,bottom
+J2,SSD1306,PinHeader_1x04_P2.54mm_Vertical,116.84,-53.34,90.0,top
+R1,10k,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,49.53,-64.135,0.0,bottom
+R2,10k,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,49.53,-60.96,0.0,bottom
+R3,10k,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,49.53,-57.785,0.0,bottom
+R4,10k,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,49.53,-54.61,180.0,bottom
+SW1,SW_Push,SW_PUSH_6mm,78.18,-59.69,0.0,top
+SW2,SW_Push,SW_PUSH_6mm,88.34,-59.69,0.0,top
+SW3,SW_Push,SW_PUSH_6mm,97.94,-59.69,0.0,top
+SW4,SW_SPDT,PinHeader_1x03_P2.54mm_Vertical,78.105,-53.975,90.0,top
+U1,~,XIAO_Board,49.53,-63.5,180.0,top
