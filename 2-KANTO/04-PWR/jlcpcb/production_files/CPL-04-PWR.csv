@@ -1,0 +1,47 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,100n,C_0402_1005Metric,117.828,-66.04,180.0,top
+C2,100n,C_0402_1005Metric,115.824,-69.751,90.0,top
+C3,100n,C_0402_1005Metric,125.984,-75.565,180.0,top
+C4,100n,C_0402_1005Metric,129.032,-67.028,-90.0,top
+C5,100n,C_0402_1005Metric,119.38,-65.024,90.0,top
+C6,100n,C_0402_1005Metric,116.84,-70.767,90.0,top
+C7,4.7u,R_0402_1005Metric,117.856,-64.77,180.0,top
+C8,22uF,C_0805_2012Metric,124.015,-128.46,90.0,top
+C9,22uF,C_0805_2012Metric,101.6,-128.02,90.0,top
+C10,10uF,C_0805_2012Metric,124.46,-121.92,-90.0,top
+C11,10uF,C_0805_2012Metric,102.235,-123.19,-90.0,top
+D1,LED_GREEN,LED_0805_2012Metric,170.815,-53.975,0.0,top
+F1,Fuse,FUSE_3557-15,168.91,-141.855,90.0,top
+J1,PB_PIN,PinHeader_1x16_P2.54mm_Vertical,120.65,-58.42,-90.0,top
+J2,Conn_01x05,PinHeader_1x05_P2.54mm_Vertical,109.22,-68.585,180.0,top
+J3,PA_PIN,PinHeader_1x16_P2.54mm_Vertical,120.65,-81.28,90.0,top
+J4,WRITER CONN,PinSocket_2x04_P2.54mm_Horizontal,168.91,-78.74,180.0,top
+J5,MAIN Conn,JST_XH_S8B-XH-A_1x08_P2.50mm_Horizontal,89.26,-94.12,-90.0,top
+J6,OpenMV Conn,JST_XH_S4B-XH-A_1x04_P2.50mm_Horizontal,89.154,-113.03,-90.0,top
+J7,voltmeter,JST_XH_S2B-XH-A_1x02_P2.50mm_Horizontal,106.68,-104.14,180.0,top
+M1,ServoBasketLeft,PinHeader_1x03_P2.54mm_Vertical,90.439,-59.944,-90.0,top
+M3,ServoArmLeft,PinHeader_1x03_P2.54mm_Horizontal,88.646,-77.47,180.0,top
+M4,ServoArmRight,PinHeader_1x03_P2.54mm_Horizontal,88.646,-125.222,180.0,top
+M5,ServoHandLeft,PinHeader_1x03_P2.54mm_Horizontal,88.646,-67.31,180.0,top
+M6,ServoHandRight,PinHeader_1x03_P2.54mm_Horizontal,88.646,-135.382,180.0,top
+Q1,Q_PMOS_GDS,TO-251-3_Vertical,159.635,-147.2,0.0,top
+R1,10k,R_0603_1608Metric,123.952,-76.708,90.0,top
+R2,10k,R_0603_1608Metric,160.655,-79.82,-90.0,top
+R3,10k,R_0603_1608Metric,85.09,-50.292,0.0,top
+R4,10k,R_0603_1608Metric,79.502,-149.86,0.0,top
+R5,470,R_0603_1608Metric,170.625,-52.07,180.0,top
+R6,10k,R_0603_1608Metric,163.83,-143.51,90.0,top
+R7,1k,R_0603_1608Metric,120.015,-119.507,0.0,top
+R8,330,R_0603_1608Metric,120.015,-121.031,180.0,top
+R9,10,R_0603_1608Metric,120.015,-122.555,0.0,top
+R10,1.5k,R_0603_1608Metric,142.875,-120.015,0.0,top
+R11,680,R_0603_1608Metric,143.51,-122.745,-90.0,top
+R12,1.2k,R_0603_1608Metric,122.555,-122.11,-90.0,top
+R13,1.2k,R_0603_1608Metric,100.33,-123.127,-90.0,top
+SW1,SW_SPDT,SK-12D11VG3,170.815,-62.23,90.0,top
+SW2,SW_SPST,AkizukiSmallRockerSwitchHorizontal,159.325141,-120.65,90.0,top
+U1,STM32F103C8Tx,LQFP-48_7x7mm_P0.5mm,123.19,-69.85,0.0,top
+U2,~,vl53l0x_vertical,82.55,-48.73,180.0,top
+U3,~,vl53l0x_vertical,82.55,-151.13,0.0,top
+U4,~,OKL-T6-W12N-C-SMD,134.81,-127.0,90.0,top
+U5,~,OKL-T6-W12N-C-SMD,111.76,-126.75,90.0,top

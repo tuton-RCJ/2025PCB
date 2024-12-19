@@ -1,4 +1,4 @@
-22513444645840597
+22518837719858622
 Akiduki
 AE-LCNV4-MOSFET(BSS138)
 
@@ -6,6 +6,13 @@ AE-LCNV4-MOSFET(BSS138)
 0
 0
 0
+Akiduki
+AkizukiSmallRockerSwitchHorizontal
+
+
+0
+5
+3
 Akiduki
 BNO055
 
@@ -60,7 +67,7 @@ OKL-T6-W12N-C-SMD
 
 
 0
-14
+17
 12
 Akiduki
 RASPBERRY_PI_PICO
@@ -90,6 +97,20 @@ S11059
 0
 10
 10
+Akiduki
+SK-12D11VG3
+
+
+0
+5
+3
+Akiduki
+ToggleHorizontal_2MS1-T1-B4-M7-Q-E-S
+
+
+0
+4
+3
 Akiduki
 Voltmeter
 

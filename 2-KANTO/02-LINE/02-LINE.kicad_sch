@@ -1973,10 +1973,10 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-  (global_label "BOOT0" (shape passive) (at 113.665 124.46 180) (fields_autoplaced)
+  (global_label "UART1_TX" (shape passive) (at 113.665 127 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
-    (uuid 10a9069e-2f34-44ec-8f1a-c86cf5730943)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 105.683 124.46 0)
+    (uuid 0ff72416-adc6-480b-8ba4-dbfa70a48a13)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 102.7802 127 0)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
@@ -2019,13 +2019,6 @@
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 369aacaf-10af-4965-9600-7f71cb7e1874)
     (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 92.4597 125.73 0)
-      (effects (font (size 1.27 1.27)) (justify left) hide)
-    )
-  )
-  (global_label "UART1_TX" (shape passive) (at 126.365 124.46 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left))
-    (uuid 38818632-f3ba-47c5-9050-0e1fcaffa14e)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 137.2498 124.46 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
@@ -2092,6 +2085,13 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
+  (global_label "BOOT0" (shape passive) (at 126.365 127 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 5a32ffdd-969a-4bdb-b3cc-d724e9602ce3)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 134.347 127 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+  )
   (global_label "photo_center" (shape passive) (at 85.725 59.69 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 5b3611f1-9871-4bdd-b9ca-8ff563513e80)
@@ -2141,6 +2141,13 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
+  (global_label "UART1_RX" (shape passive) (at 113.665 121.92 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 68d32646-8df6-4345-840a-0e1994cef9d0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 102.4778 121.92 0)
+      (effects (font (size 1.27 1.27)) (justify right) hide)
+    )
+  )
   (global_label "photo_front" (shape passive) (at 248.285 144.78 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 6dad5bba-dc31-4dd9-82be-55c5167052a4)
@@ -2160,13 +2167,6 @@
     (uuid 73d92f5f-b7f8-443b-a785-a666423fba3a)
     (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 16.8133 180.975 0)
       (effects (font (size 1.27 1.27)) (justify right) hide)
-    )
-  )
-  (global_label "NRST" (shape passive) (at 126.365 127 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left))
-    (uuid 794d5294-2110-4219-bc5f-dc994955f6b8)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 133.0165 127 0)
-      (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
   (global_label "UART3_TX" (shape input) (at 152.4 175.26 180) (fields_autoplaced)
@@ -2267,18 +2267,18 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
+  (global_label "NRST" (shape passive) (at 113.665 124.46 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid ba1f1371-a9c1-47e4-9c38-93e187a8f429)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 107.0135 124.46 0)
+      (effects (font (size 1.27 1.27)) (justify right) hide)
+    )
+  )
   (global_label "photo_R_2" (shape passive) (at 248.285 43.815 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid bb1ee82b-36db-467a-9097-6fd8c8d8ff85)
     (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 236.6747 43.815 0)
       (effects (font (size 1.27 1.27)) (justify right) hide)
-    )
-  )
-  (global_label "UART1_RX" (shape passive) (at 126.365 119.38 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left))
-    (uuid bbc02678-f17c-45ca-882a-9137d77344ff)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 137.5522 119.38 0)
-      (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
   (global_label "photo_R_7" (shape passive) (at 85.725 95.25 0) (fields_autoplaced)
@@ -3737,6 +3737,46 @@
     )
   )
 
+  (symbol (lib_id "power:GND") (at 126.365 124.46 90) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 35a3caa6-1423-456b-a1d0-d99d4d34c88f)
+    (property "Reference" "#PWR013" (at 132.715 124.46 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "GND" (at 130.175 124.46 90)
+      (effects (font (size 1.27 1.27)) (justify right))
+    )
+    (property "Footprint" "" (at 126.365 124.46 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 126.365 124.46 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid f6e37b2f-7dc1-4edf-941b-5e03c594258c))
+    (instances
+      (project "04-line_sub"
+        (path "/25c57c6f-8e34-4d58-aed4-7bf8583eb86f"
+          (reference "#PWR013") (unit 1)
+        )
+      )
+      (project "02-LINE"
+        (path "/35ef3fba-f15f-441c-9d76-e36f38a0c8a3"
+          (reference "#PWR013") (unit 1)
+        )
+      )
+      (project "06_WRITER"
+        (path "/816205b3-19fd-426f-b76d-aedd327993fe"
+          (reference "#PWR03") (unit 1)
+        )
+      )
+      (project "04-line"
+        (path "/b1a90ee4-5853-45f0-85ec-cbfa3ae36592"
+          (reference "#PWR078") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "Device:R") (at 221.615 40.005 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 387f7e38-1c8b-4ac0-a00e-7f83aa72416b)
@@ -4712,6 +4752,46 @@
     )
   )
 
+  (symbol (lib_id "power:+3V3") (at 126.365 119.38 270) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 6050c953-90af-4ae1-8939-85f9de274375)
+    (property "Reference" "#PWR012" (at 122.555 119.38 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "+3V3" (at 130.175 119.38 90)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "" (at 126.365 119.38 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 126.365 119.38 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 026e4b00-fe0c-4b2c-af63-31800af09700))
+    (instances
+      (project "04-line_sub"
+        (path "/25c57c6f-8e34-4d58-aed4-7bf8583eb86f"
+          (reference "#PWR012") (unit 1)
+        )
+      )
+      (project "02-LINE"
+        (path "/35ef3fba-f15f-441c-9d76-e36f38a0c8a3"
+          (reference "#PWR012") (unit 1)
+        )
+      )
+      (project "06_WRITER"
+        (path "/816205b3-19fd-426f-b76d-aedd327993fe"
+          (reference "#PWR01") (unit 1)
+        )
+      )
+      (project "04-line"
+        (path "/b1a90ee4-5853-45f0-85ec-cbfa3ae36592"
+          (reference "#PWR077") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "power:+3V3") (at 102.87 161.925 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 61926c4c-cf6d-4586-8994-5192e32b9c81)
@@ -4978,46 +5058,6 @@
       (project "04-line"
         (path "/b1a90ee4-5853-45f0-85ec-cbfa3ae36592"
           (reference "U3") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "power:+3V3") (at 113.665 121.92 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 73a45cd5-bcf6-4bc4-87c3-ea21102fdc32)
-    (property "Reference" "#PWR012" (at 117.475 121.92 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "+3V3" (at 110.49 121.92 90)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "" (at 113.665 121.92 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 113.665 121.92 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid b9fc0936-5d2e-4489-bc61-5819692e33c9))
-    (instances
-      (project "04-line_sub"
-        (path "/25c57c6f-8e34-4d58-aed4-7bf8583eb86f"
-          (reference "#PWR012") (unit 1)
-        )
-      )
-      (project "02-LINE"
-        (path "/35ef3fba-f15f-441c-9d76-e36f38a0c8a3"
-          (reference "#PWR014") (unit 1)
-        )
-      )
-      (project "06_WRITER"
-        (path "/816205b3-19fd-426f-b76d-aedd327993fe"
-          (reference "#PWR01") (unit 1)
-        )
-      )
-      (project "04-line"
-        (path "/b1a90ee4-5853-45f0-85ec-cbfa3ae36592"
-          (reference "#PWR077") (unit 1)
         )
       )
     )
@@ -7691,46 +7731,6 @@
       (project "04-line"
         (path "/b1a90ee4-5853-45f0-85ec-cbfa3ae36592"
           (reference "#PWR06") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "power:GND") (at 113.665 127 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid ef41a5e8-3ead-4b62-9245-088f1578ad1a)
-    (property "Reference" "#PWR013" (at 107.315 127 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "GND" (at 110.49 127 90)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
-    (property "Footprint" "" (at 113.665 127 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 113.665 127 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 3df34596-8096-47e5-b0f7-c167bb14953d))
-    (instances
-      (project "04-line_sub"
-        (path "/25c57c6f-8e34-4d58-aed4-7bf8583eb86f"
-          (reference "#PWR013") (unit 1)
-        )
-      )
-      (project "02-LINE"
-        (path "/35ef3fba-f15f-441c-9d76-e36f38a0c8a3"
-          (reference "#PWR015") (unit 1)
-        )
-      )
-      (project "06_WRITER"
-        (path "/816205b3-19fd-426f-b76d-aedd327993fe"
-          (reference "#PWR03") (unit 1)
-        )
-      )
-      (project "04-line"
-        (path "/b1a90ee4-5853-45f0-85ec-cbfa3ae36592"
-          (reference "#PWR078") (unit 1)
         )
       )
     )

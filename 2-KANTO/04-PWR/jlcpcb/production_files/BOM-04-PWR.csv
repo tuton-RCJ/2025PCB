@@ -1,0 +1,35 @@
+Comment,Designator,Footprint,LCSC
+100n,"C1,C2,C3,C4,C5,C6",C_0402_1005Metric,C1525
+10uF,"C10,C11",C_0805_2012Metric,C15850
+1k,R7,R_0603_1608Metric,C21190
+1.2k,"R12,R13",R_0603_1608Metric,C22765
+1.5k,R10,R_0603_1608Metric,C22843
+10,R9,R_0603_1608Metric,C22859
+LED_GREEN,D1,LED_0805_2012Metric,C2297
+330,R8,R_0603_1608Metric,C23138
+470,R5,R_0603_1608Metric,C23179
+680,R11,R_0603_1608Metric,C23228
+4.7u,C7,R_0402_1005Metric,C23733
+10k,"R1,R2,R3,R4,R6",R_0603_1608Metric,C25804
+22uF,"C8,C9",C_0805_2012Metric,C45783
+STM32F103C8Tx,U1,LQFP-48_7x7mm_P0.5mm,C8734
+~,U5,OKL-T6-W12N-C-SMD,
+SW_SPST,SW2,AkizukiSmallRockerSwitchHorizontal,
+~,U4,OKL-T6-W12N-C-SMD,
+MAIN Conn,J5,JST_XH_S8B-XH-A_1x08_P2.50mm_Horizontal,
+ServoHandRight,M6,PinHeader_1x03_P2.54mm_Horizontal,
+Fuse,F1,FUSE_3557-15,
+~,U2,vl53l0x_vertical,
+WRITER CONN,J4,PinSocket_2x04_P2.54mm_Horizontal,
+~,U3,vl53l0x_vertical,
+Conn_01x05,J2,PinHeader_1x05_P2.54mm_Vertical,
+ServoArmRight,M4,PinHeader_1x03_P2.54mm_Horizontal,
+ServoHandLeft,M5,PinHeader_1x03_P2.54mm_Horizontal,
+voltmeter,J7,JST_XH_S2B-XH-A_1x02_P2.50mm_Horizontal,
+OpenMV Conn,J6,JST_XH_S4B-XH-A_1x04_P2.50mm_Horizontal,
+Q_PMOS_GDS,Q1,TO-251-3_Vertical,
+PA_PIN,J3,PinHeader_1x16_P2.54mm_Vertical,
+ServoArmLeft,M3,PinHeader_1x03_P2.54mm_Horizontal,
+PB_PIN,J1,PinHeader_1x16_P2.54mm_Vertical,
+SW_SPDT,SW1,SK-12D11VG3,
+ServoBasketLeft,M1,PinHeader_1x03_P2.54mm_Vertical,
