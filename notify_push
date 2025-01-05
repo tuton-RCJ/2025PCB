@@ -1,0 +1,11 @@
+name: commit notify
+
+on:
+  push:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Discord Message Notify
+      run: curl -X POST -F content="△△△${{ github.actor }}が進捗を生みました△△△" ${{ secrets.WEBHOOK_URL }}
