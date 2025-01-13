@@ -428,7 +428,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "09-ToF_mod_vertical.step",
+      "step": "09-ToF_mod_horizontal.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

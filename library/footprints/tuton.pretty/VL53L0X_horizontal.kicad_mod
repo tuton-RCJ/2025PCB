@@ -45,8 +45,8 @@
   (pad "4" thru_hole circle (at 7.62 0) (size 1.524 1.524) (drill 0.762) (layers "*.Cu" "*.Mask") (tstamp 4f88b041-561a-4aef-bc39-e2f09f868fba))
   (pad "5" thru_hole circle (at 5.08 -10.16) (size 1.524 1.524) (drill 0.762) (layers "*.Cu" "*.Mask") (tstamp 09fcf163-ae96-403a-9c96-3c176e5d60bc))
   (pad "6" thru_hole circle (at 7.62 -10.16) (size 1.524 1.524) (drill 0.762) (layers "*.Cu" "*.Mask") (tstamp 6d0d421c-5e9f-4a64-9721-5cf236c932d9))
-  (model "C:/Users/shuji/OneDrive/デスクトップ/robocup/RCJ2025/GitHub/2025PCB/09-ToF_mod/09-ToF_mod.step"
-    (offset (xyz 0 0 2.5))
+  (model "C:/Users/shuji/OneDrive/デスクトップ/robocup/RCJ2025/GitHub/2025PCB/library/3dmodels/09-ToF_mod_horizontal.step"
+    (offset (xyz 34 -29 2.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
