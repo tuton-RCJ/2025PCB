@@ -1,0 +1,15 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+D1,WS2812B,LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm,57.0,-80.0,0.0,top
+D2,WS2812B,LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm,77.5,-80.0,0.0,top
+D3,WS2812B,LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm,100.0,-80.0,0.0,top
+D4,WS2812B,LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm,122.5,-80.0,0.0,top
+D5,WS2812B,LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm,145.0,-80.0,0.0,top
+J1,OpenMV Conn,JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical,100.0,-75.0,0.0,bottom
+R1,10k,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,114.554,-77.724,90.0,bottom
+R2,10k,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,111.252,-77.724,90.0,bottom
+U1,~,VL53L0X_horizontal,57.0,-91.6025,180.0,top
+U2,~,VL53L0X_horizontal,78.69,-91.6025,180.0,top
+U3,~,VL53L0X_horizontal,101.19,-91.6025,180.0,top
+U4,~,VL53L0X_horizontal,123.69,-91.6025,180.0,top
+U5,~,VL53L0X_horizontal,145.81,-91.6025,180.0,top
+U6,~,MOUDLE14P-2.54-21X17.8MM,78.74,-79.818,90.0,bottom
