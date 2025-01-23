@@ -1,0 +1,9 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+D1,5VLED,LED_D3.0mm_Clear,104.14,-93.721,90.0,top
+D2,LED,LED_D3.0mm_Clear,104.14,-99.568,90.0,top
+J1,OpenMV1,PinSocket_1x08_P2.54mm_Vertical,99.975,-91.125,180.0,bottom
+J2,OpenMV2,PinSocket_1x08_P2.54mm_Vertical,132.233,-91.125,180.0,bottom
+J3,Conn_01x04,JST_XH_S4B-XH-A_1x04_P2.50mm_Horizontal,113.792,-98.298,0.0,top
+J4,REG,PinHeader_1x03_P2.54mm_Vertical,125.715,-100.33,90.0,top
+SW1,5VIN,SK-12D11VG3,109.728,-86.36,180.0,top
+SW2,3V3IN,SK-12D11VG3,122.31,-86.36,180.0,top
