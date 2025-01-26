@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 0.65,
+          "height": 0.65,
+          "width": 0.65
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -49,7 +49,12 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "lib_footprint_mismatch|135128000|112661000|657607fc-fedc-46a4-b5d7-8649117dc923|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_mismatch|163939000|113106000|eb577ba0-31f3-4b87-861e-fbbe28baef01|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_mismatch|196247000|88900000|6726947d-29a7-419a-b213-5f0c4d8a4cb9|00000000-0000-0000-0000-000000000000",
+        "net_conflict|196537000|88900000|6726947d-29a7-419a-b213-5f0c4d8a4cb9|00000000-0000-0000-0000-000000000000"
+      ],
       "meta": {
         "version": 2
       },
@@ -63,8 +68,8 @@
         "diff_pair_gap_out_of_range": "error",
         "diff_pair_uncoupled_length_too_long": "error",
         "drill_out_of_range": "error",
-        "duplicate_footprints": "warning",
-        "extra_footprint": "warning",
+        "duplicate_footprints": "ignore",
+        "extra_footprint": "ignore",
         "footprint": "error",
         "footprint_type_mismatch": "ignore",
         "hole_clearance": "error",
