@@ -1,4 +1,4 @@
-22518846728474852
+22527533898144819
 Akiduki
 AE-LCNV4-MOSFET(BSS138)
 
@@ -56,6 +56,13 @@ MPU6050
 8
 8
 Akiduki
+MS2807
+
+
+0
+18
+14
+Akiduki
 OKL-T6-W12N-C
 
 
@@ -104,6 +111,13 @@ SK-12D11VG3
 0
 5
 3
+Akiduki
+THBP07-043Cx
+
+
+0
+4
+2
 Akiduki
 ToggleHorizontal_2MS1-T1-B4-M7-Q-E-S
 
@@ -92666,12 +92680,33 @@ varistor
 2
 2
 XIAO
+MOUDLE14P-2.54-21X17.8MM
+
+
+0
+14
+14
+XIAO
+MOUDLE14P-SMD-2.54-21X17.8MM
+
+
+0
+14
+14
+XIAO
 XIAO_Board
 
 
 0
 14
 14
+XIAO
+XIAO_SMD
+
+
+0
+0
+0
 logo
 jlcpcb_log_small
 
