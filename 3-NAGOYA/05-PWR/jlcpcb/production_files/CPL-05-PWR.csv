@@ -1,0 +1,18 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,22uF,C_0805_2012Metric,60.298,-87.0,90.0,top
+C2,22uF,C_0805_2012Metric,81.526,-87.38,90.0,top
+C3,10uF,C_0805_2012Metric,81.526,-82.62,-90.0,top
+C4,10uF,C_0805_2012Metric,60.298,-82.301,-90.0,top
+F1,Fuse,FUSE_3557-15,35.638,-95.119,-90.0,top
+Q1,Q_PMOS_GDS,TO-251-3_Vertical,42.538,-86.102,-90.0,top
+R1,1k,R_0603_1608Metric,73.914,-75.184,90.0,top
+R2,330,R_0603_1608Metric,75.565,-75.184,-90.0,top
+R3,10,R_0603_1608Metric,77.216,-75.184,90.0,top
+R4,1.5k,R_0603_1608Metric,97.5,-78.5,0.0,top
+R5,680,R_0603_1608Metric,98.262,-81.294,-90.0,top
+R6,1.2k,R_0603_1608Metric,79.621,-82.62,-90.0,top
+R7,1.2k,R_0603_1608Metric,58.266,-82.301,-90.0,top
+R8,10k,R_0603_1608Metric,38.227,-83.185,0.0,top
+SW1,SW_SPST,AkizukiSmallRockerSwitchHorizontal,117.0,-141.46,90.0,top
+U1,~,OKL-T6-W12N-C-SMD,90.17,-86.106,90.0,top
+U2,~,OKL-T6-W12N-C-SMD,69.342,-86.106,90.0,top

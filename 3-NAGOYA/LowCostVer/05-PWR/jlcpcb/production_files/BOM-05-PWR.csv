@@ -1,0 +1,14 @@
+Comment,Designator,Footprint,LCSC
+10uF,10u,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,C15850
+1.2k,1k2,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,C22765
+10k,10k,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,C25804
+22uF,22u,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,C45783
+Fuse,F1,FUSE_3557-15,
+~,U2,OKL-T6-W12N-C-SMD,
+Q_PMOS_GDS,Q1,TO-251-3_Vertical,
+SW_SPST,SW1,AkizukiSmallRockerSwitchHorizontal,
+Battery,J2,SolderWire-2sqmm_1x02_P7.8mm_D2mm_OD3.9mm,
+voltmeter,J1,SolderWire-0.5sqmm_1x02_P4.6mm_D0.9mm_OD2.1mm,
+~,U1,OKL-T6-W12N-C-SMD,
+3kΩ,RV5V-1340Ω,Potentiometer_Bourns_3006P_Horizontal,
+3kΩ,3V3-2180Ω,Potentiometer_Bourns_3006P_Horizontal,

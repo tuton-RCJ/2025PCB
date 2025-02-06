@@ -1,0 +1,15 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+1k2,1.2k,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,109.0,-74.0,0.0,top
+1k2,1.2k,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,43.0,-75.0,180.0,top
+3V3-2180Ω,3kΩ,Potentiometer_Bourns_3006P_Horizontal,112.225,-93.275,180.0,top
+10k,10k,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,34.0,-78.0,90.0,top
+10u,10uF,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,60.298,-81.7495,-90.0,top
+10u,10uF,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,81.526,-81.7495,-90.0,top
+22u,22uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,60.298,-87.0,90.0,top
+22u,22uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,81.526,-87.38,90.0,top
+F1,Fuse,FUSE_3557-15,35.638,-95.119,-90.0,top
+Q1,Q_PMOS_GDS,TO-251-3_Vertical,42.538,-86.102,-90.0,top
+RV5V-1340Ω,3kΩ,Potentiometer_Bourns_3006P_Horizontal,112.225,-86.875,180.0,top
+SW1,SW_SPST,AkizukiSmallRockerSwitchHorizontal,117.0,-141.46,90.0,top
+U1,~,OKL-T6-W12N-C-SMD,90.17,-86.106,90.0,top
+U2,~,OKL-T6-W12N-C-SMD,69.342,-86.106,90.0,top
