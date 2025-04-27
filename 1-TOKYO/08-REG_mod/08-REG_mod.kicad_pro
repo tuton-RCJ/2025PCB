@@ -428,7 +428,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "08-REG_mod.step",
+      "step": "08-REG_mod_horizontal.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
